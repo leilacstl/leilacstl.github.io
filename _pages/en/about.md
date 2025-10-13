@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-After working for a year as a Junior Economist at the [Institut des Politiques Publiques (IPP)](https://www.ipp.eu/en/), I am now a PhD student at the Department of Economics, Sciences Po, under the supervision of [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Mathilde Emeriau](https://mathildeemeriau.com/). I am also affiliated with the [Laboratory for Interdisciplinary Evaluation of Public Policies (LIEPP)](https://www.sciencespo.fr/liepp/en/). My work focuses on the evaluation of education policies, mostly in France, but I am also interested in development economics, gender economics and labor economics.
+After working for a year as a Junior Economist at the [Institut des Politiques Publiques (IPP)](https://www.ipp.eu/en/), I am now a PhD student at the Department of Economics, Sciences Po, under the supervision of [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Mathilde Emeriau](https://mathildeemeriau.com/). I am also affiliated with the [Laboratory for Interdisciplinary Evaluation of Public Policies (LIEPP)](https://www.sciencespo.fr/liepp/en/). 
+
+My work focuses on the evaluation of education policies, mostly in France, but I am also interested in development economics, gender economics and labor economics.
