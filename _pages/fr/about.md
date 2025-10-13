@@ -25,6 +25,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Après avoir travaillé pendant un an en tant qu'économiste junior à l'[Institut des Politiques Publiques (IPP)](https://www.ipp.eu/), je suis désormais doctorante au département d'économie de Sciences Po, où j'effectue ma thèse sous la co-direction de [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) et de [Mathilde Emeriau](https://mathildeemeriau.com/). Je suis également affiliée au [Laboratoire Interdisciplinaire d'Evaluation des Politiques Publiques (LIEPP)](https://www.sciencespo.fr/liepp/fr/). Mon travail porte principalement sur l'évaluation des politiques éducatives, principalement en France. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
+Après avoir travaillé pendant un an en tant qu'économiste junior à l'[Institut des Politiques Publiques (IPP)](https://www.ipp.eu/), je suis désormais doctorante au département d'économie de Sciences Po, où j'effectue ma thèse sous la co-direction de [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) et de [Mathilde Emeriau](https://mathildeemeriau.com/). Je suis également affiliée au [Laboratoire Interdisciplinaire d'Evaluation des Politiques Publiques (LIEPP)](https://www.sciencespo.fr/liepp/fr/). 
+
+Mon travail porte principalement sur l'évaluation des politiques éducatives, principalement en France. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
 
 
