@@ -9,19 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "An overview of the current projects I am currently involved in.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "projects-the-persistence-of-academic-test-scores-in-france",
-          title: 'The persistence of academic test scores in France',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+  },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
