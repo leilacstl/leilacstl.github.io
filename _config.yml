@@ -147,7 +147,7 @@ collections:
       layout: post
     output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
