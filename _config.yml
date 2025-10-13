@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alexandre
+first_name: Leïla
 middle_name: 
-last_name: Grellet
+last_name: Costil
 # contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   After 2 years spent as a research associate at J-PAL Europe, I am now a PhD student at the Department of Economics, Sciences Po. I am working on the evaluation of education policies in France.
@@ -14,7 +14,7 @@ keywords: Education, Economics, Policy evaluation # add your own keywords or lea
 # lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😸 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alexgrlt.github.io # the base hostname & protocol for your site
+url: https://leilacstl.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
