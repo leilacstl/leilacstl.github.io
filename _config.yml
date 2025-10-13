@@ -8,11 +8,11 @@ middle_name:
 last_name: Costil 
 # contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  After 2 years spent as a research associate at J-PAL Europe, I am now a PhD student at the Department of Economics, Sciences Po. I am working on the evaluation of education policies in France.
+  After working as a Junior Economist for a year at the Institut des Politiques Publiques (IPP), I am now a PhD student at the Department of Economics, Sciences Po. I am also affiliated to the Laboratory for Interdisciplinary Evaluation of Public Policies (LIEPP). My main focus is on the evaluation of education policies in France.
 # footer_text: >
 keywords: Education, Economics, Policy evaluation # add your own keywords or leave empty
 # lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 😸 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Etoile(1).png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://leilacstl.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
