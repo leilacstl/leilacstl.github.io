@@ -25,8 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Après avoir travaillé pendant un an en tant qu'économiste junior à l'[Institut des Politiques Publiques (IPP)](https://www.ipp.eu/), je suis désormais doctorante au département d'économie de Sciences Po, où j'effectue ma thèse sous la co-direction de [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) et de [Mathilde Emeriau](https://mathildeemeriau.com/). Je suis également affiliée au [Laboratoire Interdisciplinaire d'Evaluation des Politiques Publiques (LIEPP)](https://www.sciencespo.fr/liepp/fr/). Mon travail porte principalement sur l'évaluation des politiques éducatives, principalement en France. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
 
-Après 2 ans passés comme associé de recherche au sein du programme [Innovations, Données et Expérimentations en Education (IDEE)](https://www.idee-education.fr/), basé à J-PAL Europe, je suis désormais doctorant au département d'économie de SciencesPo, où j'effectue ma thèse sous la co-direction de [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) et [Carlo Barone](https://www.sciencespo.fr/cris/en/directory/barone-carlo/). Mes travaux de recherche portent sur l'évaluation de politiques éducatives, tout particulièrement en France. Je suis également intéressé par l'économie du développement et l'économie du travail.
-
-Je suis notamment l'auteur du [calculateur de puissance du programme IDEE](https://www.idee-education.fr/calcul-de-puissance/).
 
