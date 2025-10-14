@@ -29,4 +29,5 @@ Après avoir travaillé pendant un an en tant qu'économiste junior à l'[Instit
 
 Mon travail porte principalement sur l'évaluation des politiques éducatives, principalement en France. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
 
+Vous pouvez trouver mon CV <a href="assets/pdf/CV_Leila_Costil_fr.pdf" target="_blank">ici</a>.
 

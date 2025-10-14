@@ -28,4 +28,6 @@ latest_posts:
 
 After working for a year as a Junior Economist at the [Institut des Politiques Publiques (IPP)](https://www.ipp.eu/en/), I am now a PhD student at the Department of Economics, Sciences Po, under the supervision of [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Mathilde Emeriau](https://mathildeemeriau.com/). I am also affiliated with the [Laboratory for Interdisciplinary Evaluation of Public Policies (LIEPP)](https://www.sciencespo.fr/liepp/en/). 
 
-My work focuses on the evaluation of education policies, mostly in France, but I am also interested in development economics, gender economics and labor economics.
+My work focuses on the evaluation of education policies, mostly in France, but I am also interested in gender economics, labor economics and development economics.
+
+You can find my CV <a href="assets/pdf/CV_Leila_Costil_en.pdf" target="_blank">here</a>.
