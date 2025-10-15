@@ -27,7 +27,7 @@ latest_posts:
 ---
 Après avoir travaillé pendant un an en tant qu'économiste junior à l'[Institut des Politiques Publiques (IPP)](https://www.ipp.eu/), je suis désormais doctorante au département d'économie de Sciences Po, où j'effectue ma thèse sous la co-direction de [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) et de [Mathilde Emeriau](https://mathildeemeriau.com/). Je suis également affiliée au [Laboratoire Interdisciplinaire d'Evaluation des Politiques Publiques (LIEPP)](https://www.sciencespo.fr/liepp/fr/). 
 
-Mon travail porte principalement sur l'évaluation des politiques éducatives, principalement en France. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
+Mon travail porte principalement sur l'évaluation des politiques éducatives, en particulier dans le contexte français. Je suis également intéressée par l'économie du genre, l'économie du développement et l'économie du travail.
 
 Vous pouvez trouver mon CV <a href="assets/pdf/CV_Leila_Costil_fr.pdf" target="_blank">ici</a>.
 
