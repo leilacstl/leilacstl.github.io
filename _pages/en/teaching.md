@@ -13,7 +13,7 @@ page_id: teaching
 ## Current Courses
 
 **Econometrics 1 (1st year graduate students) -- Fall 2026-2027**  
-*Institution:* SciencesPo. *Role:* Teaching Assistant -- lecturer: [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). *Format:* 12x2h tutorials 
+*Institution:* Sciences Po. *Role:* teaching assistant (lecturer: [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0)). *Format:* 12x2h tutorials <br>
 *Focus:* probability, random variables, distributions, expectation, normality, estimation, asymptotics, maximum likelihood, hypothesis testing
 
 ---
@@ -21,5 +21,5 @@ page_id: teaching
 ## Past Courses
 
 **Policy Analysis and Policy Evaluation (1st year graduate students) -- Spring 2025-2026**  
-*Institution:* SciencesPo. *Role:* Teaching Assistant -- lecturer: [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home). *Format:* 3x2h tutorials  
+*Institution:* Sciences Po. *Role:* teaching assistant (lecturer: [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home)). *Format:* 3x2h tutorials <br>
 *Focus:* RCTs, regressions, matching, DiD, RDD
