@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 cv_pdf: CV_Leila_Costil_en.pdf
 description: 
-toc:
-  sidebar: left
 ---
 
 <div style="width: 100%; height:800">
