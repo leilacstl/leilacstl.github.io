@@ -13,7 +13,7 @@ page_id: teaching
 ## Cours actuels
 
 **Économétrie 1 (étudiants de 1ère année de master) -- Automne 2026-2027**  
-*Institution :* SciencesPo. *Rôle :* Chargée de travaux dirigés -- enseignant : [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). *Format :* 12x2h de travaux dirigés 
+*Institution :* Sciences Po. *Rôle :* chargée de travaux dirigés (enseignant : [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0)). *Format :* 12x2h de travaux dirigés <br>
 *Thèmes :* probabilités, variables aléatoires, distributions, espérance, normalité, estimation, asymptotique, maximum de vraisemblance, tests d'hypothèses
 
 ---
@@ -21,5 +21,5 @@ page_id: teaching
 ## Cours passés
 
 **Analyse et évaluation des politiques publiques (étudiants de 1ère année de master) -- Printemps 2025-2026**  
-*Institution :* SciencesPo. *Rôle :* Chargée de travaux dirigés -- enseignante : [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home). *Format :* 3x2h de travaux dirigés  
+*Institution :* Sciences Po. *Rôle :* chargée de travaux dirigés (enseignante : [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home)). *Format :* 3x2h de travaux dirigés <br>
 *Thèmes :* essais randomisés contrôlés (RCT), régressions, appariement, différence de différences (DiD), régression sur discontinuité (RDD)
